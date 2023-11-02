@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~0122382be073f6016d)
 
-- 🌱 I’m currently learning **Android and Kotlin**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 📫 How to reach me **fatihburakpala94@gmail.com**
 
